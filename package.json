@@ -1,0 +1,16 @@
+{
+  "name": "mok-localstorage",
+  "version": "1.0.0",
+  "description": "localStorage api's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "localstorage",
+    "local-storage",
+    "react-localstorage"
+  ],
+  "author": "MohanKesappagari",
+  "license": "ISC"
+}
