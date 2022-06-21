@@ -4,7 +4,17 @@
   "description": "localStorage api's",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kesappagarimohan/mok-localstorage.git"
+  },
+  "homepage": "https://github.com/kesappagarimohan/mok-localstorage/edit/main/README.md",
+  "bugs": {
+    "url": "https://github.com/kesappagarimohan/mok-localstorage/issues",
+    "email": "mohankesappa@gmail.com"
   },
   "keywords": [
     "localstorage",
@@ -12,5 +22,11 @@
     "react-localstorage"
   ],
   "author": "MohanKesappagari",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "files": [
+    "lib/**/*"
+  ]
 }
