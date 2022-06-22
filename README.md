@@ -2,6 +2,16 @@
 
 Ease use of Local Storage in JavaScript and it's libraries
 
+# Table of Contents
+
+- [Features](#features)
+- [Installing](#installing)
+- [Example](#example)
+  - [Get Data](#get-data)
+  - [Set Data](#set-data)
+  - [Remove Data](#remove-data)
+  - [React Example](#react-example)
+
 # Features
 
 - Get Data Item From Local Storage
