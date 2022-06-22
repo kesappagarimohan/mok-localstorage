@@ -59,7 +59,8 @@ import {
 } from "mok-localstorage";
 
 function App() {
-  const persist = getLocalStorageItem();
+    // persist is JSON object
+  const persist = getLocalStorageItem("persist");
 
   // Get Data
   const token = getLocalStorageItem("token");
