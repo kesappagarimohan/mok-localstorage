@@ -80,8 +80,11 @@ function App() {
     useremail: "newuser@gmail.com",
   };
 
+const access-token ="8045dd77-f0aa-4245-b695-2575536c1b9d"
   // Set Data
   setLocalStorageItem("user", user);
+  setLocalStorageItem("access-token", access-token);
+
 
   // Remove Data
   removeLocalStorage("newdata");
